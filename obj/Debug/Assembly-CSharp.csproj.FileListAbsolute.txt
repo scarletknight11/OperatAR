@@ -746,7 +746,6 @@ C:/Users/Marie Chantal T. Tan/Downloads/Unity-Tunneling-Example-for-Vuforia-mast
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEngine.UI.xml
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEngine.TestRunner.dll.mdb
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEngine.TestRunner.xml
-/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/nunit.framework.pdb
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/nunit.framework.xml
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEngine.Timeline.xml
@@ -768,3 +767,14 @@ C:/Users/Marie Chantal T. Tan/Downloads/Unity-Tunneling-Example-for-Vuforia-mast
 /Users/danjitsingh/Desktop/OperatAR/obj/Debug/Assembly-CSharp.csproj.CopyComplete
 /Users/danjitsingh/Desktop/OperatAR/obj/Debug/Assembly-CSharp.dll
 /Users/danjitsingh/Desktop/OperatAR/obj/Debug/Assembly-CSharp.pdb
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/Vuforia.UnityExtensions.Editor.dll
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/Boo.Lang.dll
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.UI.dll
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/VuforiaScripts.pdb
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/VuforiaEditorScripts.pdb
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/Vuforia.UnityExtensions.Editor.xml
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.UI.dll.mdb
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.UI.xml
