@@ -1,4 +1,4 @@
-<bold>OperatAR</bold>
+OperatAR 
 
 Inspiration
 
