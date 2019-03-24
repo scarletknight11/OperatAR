@@ -127,7 +127,6 @@
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.Advertisements.dll
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.Android.Extensions.dll
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.dll
-/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.Facebook.Extensions.dll
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.GoogleAudioSpatializer.dll
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.Graphs.dll
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.Networking.dll
@@ -391,7 +390,6 @@
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.WebGL.Extensions.dll.mdb
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.WindowsStandalone.Extensions.dll.mdb
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.OSXStandalone.Extensions.dll.mdb
-/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.Facebook.Extensions.dll.mdb
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/Newtonsoft.Json.xml
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/Unity.Analytics.Editor.dll.mdb
 /Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/Unity.Analytics.StandardEvents.dll.mdb
@@ -405,5 +403,3 @@
 /Users/danjitsingh/Desktop/OperatAR/obj/Debug/VuforiaEditorScripts.csproj.CopyComplete
 /Users/danjitsingh/Desktop/OperatAR/obj/Debug/VuforiaEditorScripts.dll
 /Users/danjitsingh/Desktop/OperatAR/obj/Debug/VuforiaEditorScripts.pdb
-/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.LinuxStandalone.Extensions.dll
-/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.LinuxStandalone.Extensions.dll.mdb

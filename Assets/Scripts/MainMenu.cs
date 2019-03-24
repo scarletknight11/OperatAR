@@ -13,10 +13,10 @@ public class MainMenu : MonoBehaviour {
     }
 
     //Room Scene
-    public void Room()
-    {
-        SceneManager.LoadScene("Room");
-    }
+    //public void Room()
+    //{
+    //    SceneManager.LoadScene("room");
+    //}
 
     //Test Scene
     public void Test()
