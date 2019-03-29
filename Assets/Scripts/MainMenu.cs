@@ -13,10 +13,10 @@ public class MainMenu : MonoBehaviour {
     }
 
     //Room Scene
-    //public void Room()
-    //{
-    //    SceneManager.LoadScene("room");
-    //}
+    public void Room()
+    {
+        SceneManager.LoadScene("room");
+    }
 
     //Test Scene
     public void Test()
@@ -29,4 +29,13 @@ public class MainMenu : MonoBehaviour {
     {
         SceneManager.LoadScene("threedee");
     }
+
+    //Main Menu Scene
+    //public void Main()
+    //{
+    //    SceneManager.LoadScene("main_menu");
+    //}
+
+
+
 }

@@ -403,3 +403,7 @@
 /Users/danjitsingh/Desktop/OperatAR/obj/Debug/VuforiaEditorScripts.csproj.CopyComplete
 /Users/danjitsingh/Desktop/OperatAR/obj/Debug/VuforiaEditorScripts.dll
 /Users/danjitsingh/Desktop/OperatAR/obj/Debug/VuforiaEditorScripts.pdb
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.Facebook.Extensions.dll
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.LinuxStandalone.Extensions.dll
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.LinuxStandalone.Extensions.dll.mdb
+/Users/danjitsingh/Desktop/OperatAR/Temp/bin/Debug/UnityEditor.Facebook.Extensions.dll.mdb
