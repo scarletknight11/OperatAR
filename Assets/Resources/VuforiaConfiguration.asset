@@ -3,8 +3,9 @@
 --- !u!114 &11400000
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
@@ -12,15 +13,16 @@ MonoBehaviour:
   m_Name: VuforiaConfiguration
   m_EditorClassIdentifier: 
   vuforia:
-    vuforiaLicenseKey: AXIZrAv/////AAAAGbSi080MwUbSuL0OqU0iRJcI4B/ILwLQdWHqtj6igcra6oHqaVv75/VSeti8mUn510eROb5DxkMHjFD6wX8l3NoNXjcrj9TUL/g+AQz6ps41jlnREH0vLi1bs07EtpCjfl9RePqQe3hkTzhTirzG3qomxLFnn4oSyuflGnjBdUtGi3WxEFHoF1u3HrIu2Fh92d7Z1FGyvjg162HSIFP7wKU+w8vdeuuOkljzWcdb1zTsOIoZQoq88CXKDDlCBhrPpaZeGesccvU1GUDyiClfew9+sF64pzvTudC+jNj3UNwykwQt3tynIadbE+fKTPh1ofSJb0h1sd5XrLT6b3yjmeKYzrVAJ5arK5GLygExfcod
-    ufoLicenseKey: QVptSVVkVC8vLy8vQUFBQUtDSzJ4LzJCOGtweWlZZzhHQUtDekdON0tPYjFHOUFsY2pGK1hyakdmVlpDdy9FK0FVN0xGeTRHcVpEVGRlN3V1TTlYNUJPL2RVM0MrRlMwVVphOGhtZ1pDc3EyejhlbXFTK3h3azgxWTZyNlpJbGFEN1ZSNjBTVVlXZUZqdDNHb0EwWkkvTnNYZVc3VUJHSktzbnRRcll0VURaeUV1Z3JWWTZHR1FvRjdTV3pYVFFHYWxhV3FJR2RkcTAwRXpDUTNoaEJiYXpCS2xiQUMyNHAzeGV2ZmpjditvSkZxcXVEVi8zOFR6eDI3cnE5N05NUW5PMmtic25IZzE2QnlhYlFpdVBUUERMdU5VY3k2dUlxTGF4NUlEOGNoeGprNm9MaTZkRVNoL2JGak9TTHBJc1dmWHU1bnRhTkdwNlpVRTlsYkJEZ2plRkN3bWtrSXZnNlBKb2pldE5xY09OTnRCOUd4Q0lGdlJ1Q3lkVzM=
+    vuforiaLicenseKey: AWoYSNf/////AAAAGQe33ksxfECzrbvpiJPOkh83Qi3Jhswqzy6kgoFU2krVKpwns1dHoO2iVXGzeURI28ixGUVPi96E5aVORtSTLq09/Vyr6zdZjOATVJsCB1/3e7HO1rm6QvK3svoN5zzrbrCAe/j9p4QCrtdYVx1QYdKlOZPgjkeqakmwLFENnni7odbh/7D6IPEMU2pUVU74YYesxf3EQdE2s9iZtEZoyH4sSkjCI5pGrMdix6mG6PQIW9F/R/6NJhoxNNy6+cwr+omwMcKdvumgnM7vzLZo0mZc57GkhtyRAgILIXrQLqpM33XM6B9wGNw18eBNaWVFxcmsqum9TWabocB42nUgo+cUtceLZO/h94EE6m8QANyv
+    ufoLicenseKey: QVNZV0cxWC8vLy8vQUFBQUtPN000M3ZYblVhd3IvODYwL2xRQ1dnT0xYN3ZWTUE0VDRqbnd4aUtvTG5TeWgydS83Q3pMaExYQkNkTUZ4cXBtTVluRWo5Y0xqaWtnNEQvc2lBUkZOSngxbUdmQlA2cVNId055ZWVGd0loRkFtS3JkVmlYbkFOUExwR3c3M0tmaWtxRnQxZmkrajJPanVPNmZQMUJLUjRGNHFvM3BDc0FvMi95Y3lwaDZhYVFkOVlISFN5TmI2WExqS0VLcXU3RmU1b1Z3NFVrUTdQTWV3YXBTRndPS3NteTYrekRXOWM5MmxCbkh2WTdvWVlUdmpSRWd1emEvSG14MkZacHFTVWlVNFhablZzSUluM0UrTkoxS2RSd0F6ejdMS29OMk5yTFBQNzF0OFhlS0tJN1d0UmpIQmZGZk5LVEp0VHM4T1c0OWJOVzVSQStMZ3kzeVREcHVlWjRHMDliQVQ2d29Nc29vMmtsL1l4eit3OHY=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
     maxSimultaneousImageTargets: 4
     maxSimultaneousObjectTargets: 1
-    useDelayedLoadingObjectTargets: 0
-    cameraDirection: 0
-    mirrorVideoBackground: 0
+    useDelayedLoadingObjectTargets: 1
+    modelTargetRecoWhileExtendedTracked: 1
+    version: 8.3.8
+    eulaAcceptedVersions: '{"Values":["0.0","8.3"]}'
   digitalEyewear:
     cameraOffset: 0.06
     distortionRenderingLayer: 31
@@ -42,25 +44,19 @@ MonoBehaviour:
       DistortionCoefficients: {x: 0, y: 0}
       FieldOfView: {x: 0, y: 0, z: 0, w: 0}
       ContainsMagnet: 0
-  databaseLoad:
-    dataSetsToLoad:
-    - VuforiaMars_Images
-    - VuforiaMars_VuMark
-    - hackerank
-    dataSetsToActivate:
-    - VuforiaMars_Images
-    - VuforiaMars_VuMark
-    - hackerank
+  database:
+    disableModelExtraction: 1
   videoBackground:
     clippingMode: 0
     numDivisions: 2
-    videoBackgroundShader: {fileID: 15311, guid: 0000000000000000f000000000000000,
-      type: 0}
+    videoBackgroundShader: {fileID: 4800000, guid: f40623b353e2f1943b1b3ba42975db7a,
+      type: 3}
     matteShader: {fileID: 15310, guid: 0000000000000000f000000000000000, type: 0}
     videoBackgroundEnabled: 1
   deviceTracker:
     autoInitTracker: 0
     autoStartTracker: 0
+    arcoreRequirement: 1
     trackingMode: 0
     posePrediction: 0
     modelCorrectionMode: 0
@@ -70,7 +66,6 @@ MonoBehaviour:
     autoInitTracker: 0
     autoStartTracker: 0
   webcam:
-    deviceNameSetInEditor: Logitech Camera
-    flipHorizontally: 0
+    deviceNameSetInEditor: USB Camera
     turnOffWebCam: 0
     renderTextureLayer: 30

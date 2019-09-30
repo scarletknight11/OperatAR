@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+
 public class MainMenu : MonoBehaviour {
 
-
-	//Organ Model Scene
+    //Organ Model Scene
     public void Organs()
     {
         SceneManager.LoadScene("OrganModels");
@@ -35,7 +35,5 @@ public class MainMenu : MonoBehaviour {
     //{
     //    SceneManager.LoadScene("main_menu");
     //}
-
-
 
 }
