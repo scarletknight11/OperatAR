@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour {
 
+ 
     //Organ Model Scene
     public void Organs()
     {
@@ -31,9 +32,9 @@ public class MainMenu : MonoBehaviour {
     }
 
     //Main Menu Scene
-    //public void Main()
-    //{
-    //    SceneManager.LoadScene("main_menu");
-    //}
+    public void MainMenuOption()
+    {
+        SceneManager.LoadScene("main_menu");
+    }
 
 }

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657826, g: 0.49641263, b: 0.57481676, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -561,6 +561,7 @@ GameObject:
   - component: {fileID: 625082641}
   - component: {fileID: 625082645}
   - component: {fileID: 625082640}
+  - component: {fileID: 625082646}
   m_Layer: 0
   m_Name: ARCamera
   m_TagString: Untagged
@@ -577,7 +578,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 625082639}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -2132876208, guid: bab6fa851cf5a1a4bba3cec5f191cb8e, type: 3}
+  m_Script: {fileID: 11500000, guid: c47f92041efbb4b429a4eafca855ebe3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &625082641
@@ -755,6 +756,18 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 0
+--- !u!114 &625082646
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 625082639}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a7c6b7887887548a75fdad9ddad60a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!21 &752294752
 Material:
   serializedVersion: 6
@@ -1755,6 +1768,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9c8322211d9b42e44a4199caeb1936f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Keywords_array: []
+  jumpSpeed: 3
 --- !u!1 &1889424270
 GameObject:
   m_ObjectHideFlags: 0
@@ -1916,8 +1931,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1253546193}
-        m_MethodName: MenuBar
+      - m_Target: {fileID: 625082646}
+        m_MethodName: MainMenuOption
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
