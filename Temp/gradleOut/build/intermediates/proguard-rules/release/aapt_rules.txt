@@ -1,15 +1,15 @@
-# Referenced at C:\Users\pauld\Downloads\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:87
+# Referenced at C:\Users\pauld\Documents\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:87
 -keep class com.google.ar.core.InstallActivity { <init>(); }
-# Referenced at C:\Users\pauld\Downloads\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:94
+# Referenced at C:\Users\pauld\Documents\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:94
 -keep class com.unity3d.ads.adunit.AdUnitActivity { <init>(); }
-# Referenced at C:\Users\pauld\Downloads\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:109
+# Referenced at C:\Users\pauld\Documents\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:109
 -keep class com.unity3d.ads.adunit.AdUnitSoftwareActivity { <init>(); }
-# Referenced at C:\Users\pauld\Downloads\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:99
+# Referenced at C:\Users\pauld\Documents\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:99
 -keep class com.unity3d.ads.adunit.AdUnitTransparentActivity { <init>(); }
-# Referenced at C:\Users\pauld\Downloads\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:104
+# Referenced at C:\Users\pauld\Documents\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:104
 -keep class com.unity3d.ads.adunit.AdUnitTransparentSoftwareActivity { <init>(); }
-# Referenced at C:\Users\pauld\Downloads\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:53
+# Referenced at C:\Users\pauld\Documents\OperatAR\Temp\gradleOut\build\intermediates\merged_manifests\release\AndroidManifest.xml:53
 -keep class com.unity3d.player.UnityPlayerActivity { <init>(); }
-# Referenced at C:\Users\pauld\.gradle\caches\transforms-2\files-2.1\1d4c724c30ca976c0dd92ccabd90127f\res\layout\__arcore_education.xml:2
+# Referenced at C:\Users\pauld\.gradle\caches\transforms-2\files-2.1\c498aefd80bc44afcd79bbe580e32082\res\layout\__arcore_education.xml:2
 -keep class android.widget.LinearLayout { <init>(...); }
 

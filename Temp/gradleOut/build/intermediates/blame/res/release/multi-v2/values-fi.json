@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\pauld\\Downloads\\OperatAR\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fi\\values-fi.xml",
+            "outputFile": "C:\\Users\\pauld\\Documents\\OperatAR\\Temp\\gradleOut\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-fi\\values-fi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\pauld\\.gradle\\caches\\transforms-2\\files-2.1\\1d4c724c30ca976c0dd92ccabd90127f\\res\\values-fi\\values.xml",
+                    "source": "C:\\Users\\pauld\\.gradle\\caches\\transforms-2\\files-2.1\\c498aefd80bc44afcd79bbe580e32082\\res\\values-fi\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8",
                         "startColumns": "0,0,0,0,0",
