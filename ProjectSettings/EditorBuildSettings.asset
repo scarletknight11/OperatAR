@@ -6,17 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/main_menu.unity
-    guid: 6cb4c4cd603ff4681937cb96cd8ae1f8
+    path: Assets/SamplesResources/Scenes/0-Main.unity
+    guid: a09cb257d566c489595b16ab37547666
   - enabled: 1
-    path: Assets/Scenes/OrganModels.unity
-    guid: 1e986546a7494497eb772451a8720b3d
-  - enabled: 1
-    path: Assets/_ExampleAssets/Scenes/room.unity
-    guid: 2c45a7142bd79465f83bcd3fd63eed9e
-  - enabled: 1
-    path: Assets/Scenes/threedee.unity
-    guid: 96894ab6ff1e5d640a74812309b9732d
+    path: Assets/Scenes/testscene.unity
+    guid: 4bc184cb24746b745b8b6f8bd314fabf
   m_configObjects:
-    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2ba4dbd235ed941bb8fdb5a40ab00f22,
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 7fb6f859baab7a746ba0919148139cbb,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 8e50ed527a7195743b3645d50c5729f6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 9ba8773d9efa2924aa6ea07dabee4bc9,
       type: 2}
