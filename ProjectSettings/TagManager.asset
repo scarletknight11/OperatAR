@@ -3,7 +3,23 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SurfaceTextLayer
+  - iconView
+  - BackgroundLayer
+  - SecondaryTextLayer
+  - SurfaceLayer
+  - PrimaryLayer
+  - SecondaryLayer
+  - PrimaryTextLayer
+  - HoverLayer
+  - ErrorLayer
+  - DisabledLayer
+  - DisabledTextLayer
+  - BackgroundTextLayer
+  - Search
+  - SecondryLayer
+  - ErrorTextLayer
   layers:
   - Default
   - TransparentFX
@@ -13,9 +29,9 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
+  - Head
+  - Left
+  - Right
   - 
   - 
   - 
@@ -40,4 +56,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: SystemUI
+    uniqueID: 291007281
     locked: 0
